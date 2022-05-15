@@ -49,9 +49,3 @@ https://remix.ethereum.org/
   Contract: Select `YourContract.sol` from the bottom of the dropdown list.
 
 - View the deployed contract and examine transactions.
-
-## 4. Deploy - Testnet or Mainnet
-
-Follow along with this tutorial:
-
-https://youtu.be/0cIkcFspdaE
